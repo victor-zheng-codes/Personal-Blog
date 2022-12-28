@@ -1,2 +1,3 @@
-# victorzheng.ca
-My Personal Website for 2023
+# Personal Blog Website
+
+My Personal Blogging Website for 2023

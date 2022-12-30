@@ -1,0 +1,5 @@
+baseURL = "https://blogs.victorzheng.ca/"
+
+[module]
+[module.hugoVersion]
+min = "0.77.0"

@@ -60,7 +60,7 @@ params:
       - name: Posts
         url: posts
       - name: Archive
-        url: archive
+        url: archives
 
   # home-info mode
   homeInfoParams:
@@ -107,7 +107,7 @@ menu:
       weight: 20
     - identifier: archive
       name: archive
-      url: /archive/
+      url: /archives/
       weight: 20
     - identifier: main-website
       name: victorzheng.ca

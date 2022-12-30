@@ -52,9 +52,9 @@ params:
     enabled: true # needs to be explicitly set
     title: Victor Zheng
     subtitle: "Student at the University of Toronto"
-    imageUrl: "https://github.com/victor-zheng-codes/Personal-Blog/blob/main/resources/images/victor-zheng-full.jpg?raw=true"
-    imageWidth: 120
-    imageHeight: 120
+    imageUrl: "https://raw.githubusercontent.com/victor-zheng-codes/Personal-Blog/main/resources/images/victor-zheng.jpg"
+    imageWidth: 200
+    imageHeight: 200
     imageTitle: my image
     buttons:
       - name: Posts

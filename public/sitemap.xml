@@ -2,10 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.victorzheng.com/categories/</loc>
+    <loc>https://blog.victorzheng.com/posts/</loc>
+    <lastmod>2022-11-10T20:59:30-08:00</lastmod>
   </url><url>
     <loc>https://blog.victorzheng.com/tags/</loc>
+    <lastmod>2022-11-10T20:59:30-08:00</lastmod>
+  </url><url>
+    <loc>https://blog.victorzheng.com/tags/tennis/</loc>
+    <lastmod>2022-11-10T20:59:30-08:00</lastmod>
+  </url><url>
+    <loc>https://blog.victorzheng.com/posts/2023-uoft-tennis-club-championship/</loc>
+    <lastmod>2022-11-10T20:59:30-08:00</lastmod>
   </url><url>
     <loc>https://blog.victorzheng.com/</loc>
+    <lastmod>2022-11-10T20:59:30-08:00</lastmod>
+  </url><url>
+    <loc>https://blog.victorzheng.com/archives/</loc>
+  </url><url>
+    <loc>https://blog.victorzheng.com/categories/</loc>
   </url>
 </urlset>

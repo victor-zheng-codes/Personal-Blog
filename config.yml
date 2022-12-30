@@ -59,9 +59,9 @@ params:
   # profile-mode
   profileMode:
     enabled: false # needs to be explicitly set
-    title: ExampleSite
-    subtitle: "This is subtitle"
-    imageUrl: "<img location>"
+    title: Victor Zheng
+    subtitle: "Student at the University of Toronto"
+    imageUrl: "<>"
     imageWidth: 120
     imageHeight: 120
     imageTitle: my image

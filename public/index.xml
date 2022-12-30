@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Victor Zheng Blogs</title>
-    <link>https://blog.victorzheng.com/</link>
+    <link>https://blog.victorzheng.ca/</link>
     <description>Recent content on Victor Zheng Blogs</description>
     <image>
-      <url>https://blog.victorzheng.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://blog.victorzheng.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://blog.victorzheng.ca/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.victorzheng.ca/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 May 2019 20:59:30 -0800</lastBuildDate><atom:link href="https://blog.victorzheng.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 May 2019 20:59:30 -0800</lastBuildDate><atom:link href="https://blog.victorzheng.ca/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>RoboRave International Robotics Competition</title>
-      <link>https://blog.victorzheng.com/posts/roborave-international-2019/</link>
+      <link>https://blog.victorzheng.ca/posts/roborave-international-2019/</link>
       <pubDate>Fri, 10 May 2019 20:59:30 -0800</pubDate>
       
-      <guid>https://blog.victorzheng.com/posts/roborave-international-2019/</guid>
+      <guid>https://blog.victorzheng.ca/posts/roborave-international-2019/</guid>
       <description>RoboRave International in Albuquerque was a blast!</description>
     </item>
     

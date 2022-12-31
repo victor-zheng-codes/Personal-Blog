@@ -10,14 +10,15 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Dec 2022 20:49:35 -0800</lastBuildDate><atom:link href="https://blog.victorzheng.ca/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 12 Dec 2022 20:49:35 -0800</lastBuildDate><atom:link href="https://blog.victorzheng.ca/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2022 Holidays Open Chess Tournament</title>
       <link>https://blog.victorzheng.ca/posts/2022-holidays-open-chess-tournament/</link>
-      <pubDate>Fri, 30 Dec 2022 20:49:35 -0800</pubDate>
+      <pubDate>Mon, 12 Dec 2022 20:49:35 -0800</pubDate>
       
       <guid>https://blog.victorzheng.ca/posts/2022-holidays-open-chess-tournament/</guid>
-      <description></description>
+      <description>The Hart House Holidays Open hosted by the historic Hart House Chess Club (HHCC) returned for the first time since the pandemic. This holiday season tradition had been sidelined since Dec. 2019 thanks to the COVID-19 pandemic and the gathering restrictions stemmed from it. I had the privilege (or responsibility as a HHCC Exec) of joining the tournament organizing team as one of the lead organizers for the event.
+The Event Recap 212 participants descended on the Great Hall of Hart House at the University of Toronto from Dec.</description>
     </item>
     
     <item>
@@ -30,6 +31,15 @@
     </item>
     
     <item>
+      <title>Varsity Feature for the UofT Tennis Club</title>
+      <link>https://blog.victorzheng.ca/posts/varsity-feature-uoft-tennis/</link>
+      <pubDate>Thu, 06 Oct 2022 20:59:16 -0800</pubDate>
+      
+      <guid>https://blog.victorzheng.ca/posts/varsity-feature-uoft-tennis/</guid>
+      <description>A feature on the UofT Tennis Club from The Varsity</description>
+    </item>
+    
+    <item>
       <title>RoboRave International Robotics Competition</title>
       <link>https://blog.victorzheng.ca/posts/roborave-international-2019/</link>
       <pubDate>Fri, 10 May 2019 20:59:30 -0800</pubDate>
@@ -38,15 +48,6 @@
       <description>RoboRave International in Albuquerque was a blast!</description>
     </item>
     
-    
-    <item>
-      <title>Varsity Feature for the UofT Tennis Club</title>
-      <link>https://blog.victorzheng.ca/posts/varsity-feature-uoft-tennis/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.victorzheng.ca/posts/varsity-feature-uoft-tennis/</guid>
-      <description>A feature on the UofT Tennis Club from The Varsity</description>
-    </item>
     
   </channel>
 </rss>

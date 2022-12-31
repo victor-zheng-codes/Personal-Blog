@@ -97,16 +97,20 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: categories
-      name: categories
-      url: /categories/
+    - identifier: posts
+      name: Posts
+      url: /posts/
       weight: 10
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 15
     - identifier: tags
-      name: tags
+      name: Tags
       url: /tags/
-      weight: 20
+      weight: 15
     - identifier: archive
-      name: archive
+      name: Archive
       url: /archives/
       weight: 20
     - identifier: main-website

@@ -5,6 +5,8 @@ draft: true
 author: "Victor Zheng"
 # author: ["Me", "You"] # multiple authors
 showToc: true
+tags: [""]
+categories: [""]
 TocOpen: false
 draft: false
 hidemeta: false

@@ -1,6 +1,6 @@
 ---
 title: "2022 Holidays Open Chess Tournament"
-date: 2022-12-30T20:49:35-08:00
+date: 2022-12-12T20:49:35-08:00
 draft: true
 author: "Victor Zheng"
 categories: ["chess-club"]

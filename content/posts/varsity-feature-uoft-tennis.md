@@ -3,12 +3,14 @@ title: "Varsity Feature for the UofT Tennis Club"
 date: 2022-12-30T20:59:16-08:00
 draft: true
 author: "Victor Zheng"
+categories: ["tennis-club"]
+tags: ["events", "tennis", "organizing"]
 showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: ""
+description: "A feature on the UofT Tennis Club from The Varsity"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false

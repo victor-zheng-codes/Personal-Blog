@@ -1,6 +1,6 @@
 ---
 title: "Varsity Feature for the UofT Tennis Club"
-date: 2022-10-6T20:59:16-08:00
+date: 2022-10-06T20:59:16-08:00
 draft: true
 author: "Victor Zheng"
 categories: ["tennis-club"]

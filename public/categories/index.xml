@@ -9,6 +9,34 @@
       <link>https://blog.victorzheng.ca/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://blog.victorzheng.ca/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Fri, 30 Dec 2022 20:49:35 -0800</lastBuildDate><atom:link href="https://blog.victorzheng.ca/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>chess-club</title>
+      <link>https://blog.victorzheng.ca/categories/chess-club/</link>
+      <pubDate>Fri, 30 Dec 2022 20:49:35 -0800</pubDate>
+      
+      <guid>https://blog.victorzheng.ca/categories/chess-club/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tennis-club</title>
+      <link>https://blog.victorzheng.ca/categories/tennis-club/</link>
+      <pubDate>Mon, 10 Oct 2022 20:50:28 -0800</pubDate>
+      
+      <guid>https://blog.victorzheng.ca/categories/tennis-club/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>robotics</title>
+      <link>https://blog.victorzheng.ca/categories/robotics/</link>
+      <pubDate>Fri, 10 May 2019 20:59:30 -0800</pubDate>
+      
+      <guid>https://blog.victorzheng.ca/categories/robotics/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

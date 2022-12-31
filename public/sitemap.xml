@@ -2,23 +2,53 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://blog.victorzheng.ca/posts/2022-holidays-open-chess-tournament/</loc>
+    <lastmod>2022-12-30T20:49:35-08:00</lastmod>
+  </url><url>
+    <loc>https://blog.victorzheng.ca/categories/</loc>
+    <lastmod>2022-12-30T20:49:35-08:00</lastmod>
+  </url><url>
+    <loc>https://blog.victorzheng.ca/tags/chess/</loc>
+    <lastmod>2022-12-30T20:49:35-08:00</lastmod>
+  </url><url>
+    <loc>https://blog.victorzheng.ca/categories/chess-club/</loc>
+    <lastmod>2022-12-30T20:49:35-08:00</lastmod>
+  </url><url>
+    <loc>https://blog.victorzheng.ca/tags/events/</loc>
+    <lastmod>2022-12-30T20:49:35-08:00</lastmod>
+  </url><url>
+    <loc>https://blog.victorzheng.ca/tags/organizing/</loc>
+    <lastmod>2022-12-30T20:49:35-08:00</lastmod>
+  </url><url>
     <loc>https://blog.victorzheng.ca/posts/</loc>
+    <lastmod>2022-12-30T20:49:35-08:00</lastmod>
+  </url><url>
+    <loc>https://blog.victorzheng.ca/tags/</loc>
+    <lastmod>2022-12-30T20:49:35-08:00</lastmod>
+  </url><url>
+    <loc>https://blog.victorzheng.ca/</loc>
+    <lastmod>2022-12-30T20:49:35-08:00</lastmod>
+  </url><url>
+    <loc>https://blog.victorzheng.ca/posts/2022-uoft-club-championship/</loc>
+    <lastmod>2022-10-10T20:50:28-08:00</lastmod>
+  </url><url>
+    <loc>https://blog.victorzheng.ca/tags/tennis/</loc>
+    <lastmod>2022-10-10T20:50:28-08:00</lastmod>
+  </url><url>
+    <loc>https://blog.victorzheng.ca/categories/tennis-club/</loc>
+    <lastmod>2022-10-10T20:50:28-08:00</lastmod>
+  </url><url>
+    <loc>https://blog.victorzheng.ca/tags/competition/</loc>
     <lastmod>2019-05-10T20:59:30-08:00</lastmod>
   </url><url>
     <loc>https://blog.victorzheng.ca/posts/roborave-international-2019/</loc>
     <lastmod>2019-05-10T20:59:30-08:00</lastmod>
   </url><url>
-    <loc>https://blog.victorzheng.ca/tags/</loc>
-    <lastmod>2019-05-10T20:59:30-08:00</lastmod>
-  </url><url>
-    <loc>https://blog.victorzheng.ca/tags/tennis/</loc>
-    <lastmod>2019-05-10T20:59:30-08:00</lastmod>
-  </url><url>
-    <loc>https://blog.victorzheng.ca/</loc>
+    <loc>https://blog.victorzheng.ca/categories/robotics/</loc>
     <lastmod>2019-05-10T20:59:30-08:00</lastmod>
   </url><url>
     <loc>https://blog.victorzheng.ca/archives/</loc>
   </url><url>
-    <loc>https://blog.victorzheng.ca/categories/</loc>
+    <loc>https://blog.victorzheng.ca/posts/varsity-feature-uoft-tennis/</loc>
   </url>
 </urlset>

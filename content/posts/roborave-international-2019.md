@@ -6,7 +6,8 @@ draft: false
 # aliases: ["/first"]
 tags: ["robotics"]
 author: "Victor Zheng"
-categories: ["robotics", "events"]
+categories: ["robotics"]
+tags: ["events", "competition"]
 showToc: true
 TocOpen: false
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: "2022 UofT Club Championship"
-date: 2022-11-10T20:50:28-08:00
+date: 2022-10-10T20:50:28-08:00
 draft: true
 author: "Victor Zheng"
 categories: ["tennis-club"]

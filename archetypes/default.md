@@ -3,7 +3,6 @@ title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 draft: true
 author: "Victor Zheng"
-# author: ["Me", "You"] # multiple authors
 showToc: true
 tags: [""]
 categories: [""]

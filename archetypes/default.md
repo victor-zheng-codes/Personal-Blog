@@ -7,7 +7,6 @@ showToc: true
 tags: [""]
 categories: [""]
 TocOpen: false
-draft: false
 hidemeta: false
 comments: false
 description: ""

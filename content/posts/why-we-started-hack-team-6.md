@@ -22,9 +22,9 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "<image url>" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
+    image: "https://raw.githubusercontent.com/victor-zheng-codes/Personal-Blog/main/content/posts/post-files/ISEF/ISEF.jpg" # image path/url
+    alt: "Image of Victor at ISEF 2022 Atlanta Georgia" # alt text
+    caption: "Why did we start XdHacks Mini's Hack Team 6?" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
 editPost:

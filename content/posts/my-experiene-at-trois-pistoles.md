@@ -1,5 +1,5 @@
 ---
-title: "My Experiene at Trois Pistoles"
+title: "My Experience at Trois Pistoles"
 date: 2023-01-03T00:19:07-08:00
 draft: true
 author: "Victor Zheng"

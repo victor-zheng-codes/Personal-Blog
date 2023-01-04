@@ -22,7 +22,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "https://raw.githubusercontent.com/victor-zheng-codes/Personal-Blog/main/content/posts/post-files/ISEF/ISEF10.JPG" # image path/url
+    image: "https://raw.githubusercontent.com/victor-zheng-codes/Personal-Blog/main/content/posts/post-files/ISEF/ISEF3.jpg" # image path/url
     alt: "Me at ISEF 2022 in Atlanta Georgia" # alt text
     caption: "Future Forward is the motto for ISEF, one of the biggest international high-school fairs in the world" # display caption under cover
     relative: false # when using page bundles set this to true

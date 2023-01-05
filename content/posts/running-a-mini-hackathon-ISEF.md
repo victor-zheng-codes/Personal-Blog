@@ -62,7 +62,7 @@ Since we arrived on day 3 of the event, the activities were already underway and
 | :--: |
 | <b>6.</b>|
 
-
+more to come...
 
 |![](https://raw.githubusercontent.com/victor-zheng-codes/Personal-Blog/main/content/posts/post-files/ISEF/ISEF7.JPG)|
 | :--: |

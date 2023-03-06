@@ -1,13 +1,12 @@
 ---
 title: "Organizing the Fall 2022 UofT Tennis Club vs Skule Tennis Club Match"
-date: 2023-10-25T23:14:49-08:00
-draft: true
+date: 2022-10-25T23:14:49-08:00
+draft: false
 author: "Victor Zheng"
 showToc: true
 tags: ["organizing", "events", "tennis"]
 categories: ["tennis-club"]
 TocOpen: false
-draft: false
 hidemeta: false
 comments: false
 description: ""
@@ -29,7 +28,7 @@ cover:
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
 editPost:
-    URL: "https://github.com/victor-zheng-codes/Personal-Blog/tree/main/content/posts"
+    URL: "https://github.com/victor-zheng-codes/Personal-Blog/tree/main/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---

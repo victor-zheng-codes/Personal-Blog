@@ -2,10 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.victorzheng.ca/categories/</loc>
-    <lastmod>2023-03-06T00:20:59-08:00</lastmod>
-  </url><url>
     <loc>https://blog.victorzheng.ca/posts/</loc>
+    <lastmod>2023-03-06T17:42:43-05:00</lastmod>
+  </url><url>
+    <loc>https://blog.victorzheng.ca/posts/the-first-canadian-championship/</loc>
+    <lastmod>2023-03-06T17:42:43-05:00</lastmod>
+  </url><url>
+    <loc>https://blog.victorzheng.ca/</loc>
+    <lastmod>2023-03-06T17:42:43-05:00</lastmod>
+  </url><url>
+    <loc>https://blog.victorzheng.ca/categories/</loc>
     <lastmod>2023-03-06T00:20:59-08:00</lastmod>
   </url><url>
     <loc>https://blog.victorzheng.ca/tags/story/</loc>
@@ -15,9 +21,6 @@
     <lastmod>2023-03-06T00:20:59-08:00</lastmod>
   </url><url>
     <loc>https://blog.victorzheng.ca/categories/university/</loc>
-    <lastmod>2023-03-06T00:20:59-08:00</lastmod>
-  </url><url>
-    <loc>https://blog.victorzheng.ca/</loc>
     <lastmod>2023-03-06T00:20:59-08:00</lastmod>
   </url><url>
     <loc>https://blog.victorzheng.ca/posts/why-i-skipped-grade-12/</loc>

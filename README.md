@@ -11,6 +11,3 @@ Started December 2022, and will be updated with my blogs!
  The site is deployed using Netlify free hosting for static websites. 
 
  View my blog here: [blog.victorzheng.ca](https://blog.victorzheng.ca/)
-
-Blogs coming soon!
-

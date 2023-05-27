@@ -10,22 +10,40 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Mar 2023 00:20:59 -0800</lastBuildDate><atom:link href="https://blog.victorzheng.ca/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 27 May 2023 12:32:39 -0400</lastBuildDate><atom:link href="https://blog.victorzheng.ca/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>story</title>
-      <link>https://blog.victorzheng.ca/tags/story/</link>
-      <pubDate>Mon, 06 Mar 2023 00:20:59 -0800</pubDate>
+      <title>articles</title>
+      <link>https://blog.victorzheng.ca/tags/articles/</link>
+      <pubDate>Sat, 27 May 2023 12:32:39 -0400</pubDate>
       
-      <guid>https://blog.victorzheng.ca/tags/story/</guid>
+      <guid>https://blog.victorzheng.ca/tags/articles/</guid>
       <description></description>
     </item>
     
     <item>
       <title>chess</title>
       <link>https://blog.victorzheng.ca/tags/chess/</link>
-      <pubDate>Mon, 12 Dec 2022 20:49:35 -0800</pubDate>
+      <pubDate>Sat, 27 May 2023 12:32:39 -0400</pubDate>
       
       <guid>https://blog.victorzheng.ca/tags/chess/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>news</title>
+      <link>https://blog.victorzheng.ca/tags/news/</link>
+      <pubDate>Sat, 27 May 2023 12:32:39 -0400</pubDate>
+      
+      <guid>https://blog.victorzheng.ca/tags/news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>story</title>
+      <link>https://blog.victorzheng.ca/tags/story/</link>
+      <pubDate>Mon, 06 Mar 2023 00:20:59 -0800</pubDate>
+      
+      <guid>https://blog.victorzheng.ca/tags/story/</guid>
       <description></description>
     </item>
     

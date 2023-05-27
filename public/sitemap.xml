@@ -2,22 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://blog.victorzheng.ca/tags/articles/</loc>
+    <lastmod>2023-05-27T12:32:39-04:00</lastmod>
+  </url><url>
+    <loc>https://blog.victorzheng.ca/categories/</loc>
+    <lastmod>2023-05-27T12:32:39-04:00</lastmod>
+  </url><url>
+    <loc>https://blog.victorzheng.ca/tags/chess/</loc>
+    <lastmod>2023-05-27T12:32:39-04:00</lastmod>
+  </url><url>
+    <loc>https://blog.victorzheng.ca/categories/chess-club/</loc>
+    <lastmod>2023-05-27T12:32:39-04:00</lastmod>
+  </url><url>
+    <loc>https://blog.victorzheng.ca/posts/feature-on-the-chess-club/</loc>
+    <lastmod>2023-05-27T12:32:39-04:00</lastmod>
+  </url><url>
+    <loc>https://blog.victorzheng.ca/tags/news/</loc>
+    <lastmod>2023-05-27T12:32:39-04:00</lastmod>
+  </url><url>
     <loc>https://blog.victorzheng.ca/posts/</loc>
-    <lastmod>2023-03-06T17:42:43-05:00</lastmod>
+    <lastmod>2023-05-27T12:32:39-04:00</lastmod>
+  </url><url>
+    <loc>https://blog.victorzheng.ca/tags/</loc>
+    <lastmod>2023-05-27T12:32:39-04:00</lastmod>
+  </url><url>
+    <loc>https://blog.victorzheng.ca/</loc>
+    <lastmod>2023-05-27T12:32:39-04:00</lastmod>
   </url><url>
     <loc>https://blog.victorzheng.ca/posts/the-first-canadian-championship/</loc>
     <lastmod>2023-03-06T17:42:43-05:00</lastmod>
   </url><url>
-    <loc>https://blog.victorzheng.ca/</loc>
-    <lastmod>2023-03-06T17:42:43-05:00</lastmod>
-  </url><url>
-    <loc>https://blog.victorzheng.ca/categories/</loc>
-    <lastmod>2023-03-06T00:20:59-08:00</lastmod>
-  </url><url>
     <loc>https://blog.victorzheng.ca/tags/story/</loc>
-    <lastmod>2023-03-06T00:20:59-08:00</lastmod>
-  </url><url>
-    <loc>https://blog.victorzheng.ca/tags/</loc>
     <lastmod>2023-03-06T00:20:59-08:00</lastmod>
   </url><url>
     <loc>https://blog.victorzheng.ca/categories/university/</loc>
@@ -27,12 +42,6 @@
     <lastmod>2023-03-06T00:20:59-08:00</lastmod>
   </url><url>
     <loc>https://blog.victorzheng.ca/posts/2022-holidays-open-chess-tournament/</loc>
-    <lastmod>2022-12-12T20:49:35-08:00</lastmod>
-  </url><url>
-    <loc>https://blog.victorzheng.ca/tags/chess/</loc>
-    <lastmod>2022-12-12T20:49:35-08:00</lastmod>
-  </url><url>
-    <loc>https://blog.victorzheng.ca/categories/chess-club/</loc>
     <lastmod>2022-12-12T20:49:35-08:00</lastmod>
   </url><url>
     <loc>https://blog.victorzheng.ca/tags/events/</loc>

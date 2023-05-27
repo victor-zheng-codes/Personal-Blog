@@ -22,9 +22,9 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "<image url>" # image path/url
+    image: "https://github.com/victor-zheng-codes/Personal-Blog/blob/main/content/posts/post-files/chess-club-2022-2023/Looking%20out%20at%20the%20distance.JPG?raw=true" # image path/url
     alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
+    caption: "Looking out into the distance at the HH Reading Week Open" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
 editPost:
@@ -36,7 +36,7 @@ editPost:
 The following page was written by Cecil Rosner, one of the only chess columnists currently still writing articles as of 2023. Rosner's pieces are published weekly on [The Globe and Mail here](https://www.theglobeandmail.com/authors/cecil-rosner/). 
 
 I was featured by Rosner in a piece titled ["Canada’s biggest college chess club still going strong after 127 years
-"](https://www.theglobeandmail.com/life/article-canadas-biggest-college-chess-club-still-going-strong-after-127-years). I did the interview with Bowen Zhang, at that time the Fundraising Director for the Hart House Chess Club. My role was the Director of Communications. 
+"](https://www.theglobeandmail.com/life/article-canadas-biggest-college-chess-club-still-going-strong-after-127-years) on Janruary 8, 2023. I did the interview with Bowen Zhang, at that time the Fundraising Director for the Hart House Chess Club. My role was the Director of Communications. 
 
 > When he moved from Vancouver to Toronto last year to attend university, Victor Zheng immediately joined the venerable Hart House Chess Club.
 

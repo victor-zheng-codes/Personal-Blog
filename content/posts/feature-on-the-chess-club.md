@@ -38,6 +38,8 @@ The following page was written by Cecil Rosner, one of the only chess columnists
 I was featured by Rosner in a piece titled ["Canada’s biggest college chess club still going strong after 127 years
 "](https://www.theglobeandmail.com/life/article-canadas-biggest-college-chess-club-still-going-strong-after-127-years) on Janruary 8, 2023. I did the interview with Bowen Zhang, at that time the Fundraising Director for the Hart House Chess Club. My role was the Director of Communications. 
 
+The article content can be found below. Many thanks to Cecil for reaching out! 
+
 > When he moved from Vancouver to Toronto last year to attend university, Victor Zheng immediately joined the venerable Hart House Chess Club.
 
 > “I found a community there,” the computer science student said. Now in its 127th year, Hart House on the University of Toronto campus is Canada’s biggest college club.

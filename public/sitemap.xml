@@ -2,10 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://blog.victorzheng.ca/categories/</loc>
+    <lastmod>2023-10-05T00:19:07-08:00</lastmod>
+  </url><url>
+    <loc>https://blog.victorzheng.ca/tags/chess/</loc>
+    <lastmod>2023-10-05T00:19:07-08:00</lastmod>
+  </url><url>
+    <loc>https://blog.victorzheng.ca/categories/chess-club/</loc>
+    <lastmod>2023-10-05T00:19:07-08:00</lastmod>
+  </url><url>
     <loc>https://blog.victorzheng.ca/posts/feature-on-chess-club-women/</loc>
     <lastmod>2023-10-05T00:19:07-08:00</lastmod>
   </url><url>
     <loc>https://blog.victorzheng.ca/posts/</loc>
+    <lastmod>2023-10-05T00:19:07-08:00</lastmod>
+  </url><url>
+    <loc>https://blog.victorzheng.ca/tags/</loc>
     <lastmod>2023-10-05T00:19:07-08:00</lastmod>
   </url><url>
     <loc>https://blog.victorzheng.ca/</loc>
@@ -14,22 +26,10 @@
     <loc>https://blog.victorzheng.ca/tags/articles/</loc>
     <lastmod>2023-05-27T12:32:39-04:00</lastmod>
   </url><url>
-    <loc>https://blog.victorzheng.ca/categories/</loc>
-    <lastmod>2023-05-27T12:32:39-04:00</lastmod>
-  </url><url>
-    <loc>https://blog.victorzheng.ca/tags/chess/</loc>
-    <lastmod>2023-05-27T12:32:39-04:00</lastmod>
-  </url><url>
-    <loc>https://blog.victorzheng.ca/categories/chess-club/</loc>
-    <lastmod>2023-05-27T12:32:39-04:00</lastmod>
-  </url><url>
     <loc>https://blog.victorzheng.ca/posts/feature-on-the-chess-club/</loc>
     <lastmod>2023-05-27T12:32:39-04:00</lastmod>
   </url><url>
     <loc>https://blog.victorzheng.ca/tags/news/</loc>
-    <lastmod>2023-05-27T12:32:39-04:00</lastmod>
-  </url><url>
-    <loc>https://blog.victorzheng.ca/tags/</loc>
     <lastmod>2023-05-27T12:32:39-04:00</lastmod>
   </url><url>
     <loc>https://blog.victorzheng.ca/posts/the-first-canadian-championship/</loc>

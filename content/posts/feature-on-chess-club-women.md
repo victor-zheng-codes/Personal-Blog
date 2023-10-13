@@ -4,8 +4,8 @@ date: 2023-10-05T00:19:07-08:00
 draft: false
 author: "Victor Zheng"
 showToc: true
-tags: [""]
-categories: [""]
+tags: ["chess"]
+categories: ["chess-club"]
 TocOpen: false
 hidemeta: false
 comments: false

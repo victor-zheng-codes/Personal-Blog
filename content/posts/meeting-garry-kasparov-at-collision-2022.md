@@ -34,7 +34,7 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-On the morning of June 21st, 2022, I woke up to a text message to our Club's account from aa random stranger. It said something along the lines of how they needed chess sets for an important chess event happening in Downtown Toronto that afternoon, and that we were one of the only Clubs in Toronto that they thought would be able to help. I quickly responded by saying that we're not open and that we don't usually offer chess equipment for such a last minute request. I asked for a bit more information and informed the rest of our Execs about the situation. Unbeknownst to me at first was that this was the one and only Garry Kasparov who was coming to town. 
+On the morning of June 21st, 2022, I woke up to a text message to our Club's account from a random stranger. It said something along the lines of how they needed chess sets for an important chess event happening in Downtown Toronto that afternoon, and that we were one of the only Clubs in Toronto that they thought would be able to help. I quickly responded by saying that we're not open and that we don't usually offer chess equipment for such a last minute request. I asked for a bit more information and informed the rest of our Execs about the situation. Unbeknownst to me at first was that this was the one and only Garry Kasparov who was coming to town. 
 
 Soon after we realized what was at stake, and I abandoned my original plans for the day to promise Collision 2022 organizers that I would bring down some of our finest chess boards to the event. In exchange, I'd get to meet Garry Kasparov and get some of our chess boards signed. 
 

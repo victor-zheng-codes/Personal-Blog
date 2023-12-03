@@ -22,7 +22,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "https://github.com/victor-zheng-codes/Personal-Blog/blob/main/content/posts/post-files/climate-code-201/closing-ceremony.jpg?raw=true
+    image: "https://github.com/victor-zheng-codes/Personal-Blog/blob/main/content/posts/post-files/climate-code-2021/closing-ceremony.jpg?raw=true
 " # image path/url
     alt: "<alt text>" # alt text
     caption: "<text>" # display caption under cover
@@ -50,7 +50,7 @@ The result was the biggest high-school hackathon in BC history, garnering 253 pa
 
 At the time, the website was located at: https://mini.xdhacks.com/vancouver/climate-code.
 
-|![](https://github.com/victor-zheng-codes/Personal-Blog/blob/main/content/posts/post-files/climate-code-201/Climate-Code-2021.jpg?raw=true)|
+|![](https://github.com/victor-zheng-codes/Personal-Blog/blob/main/content/posts/post-files/climate-code-2021/Climate-Code-2021.jpg?raw=true)|
 | :--: |
 | <b> The event banner. </b>|
 

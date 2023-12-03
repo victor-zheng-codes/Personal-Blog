@@ -79,7 +79,7 @@ By detecting a red circle, the TFA Junior Robotics Team can possibly detect a he
 The original plan was in reading an image and using OpenCV to detect the red circles. However, after applying a mask, the results were unexpected.  This can be seen in the image below.
 
 
-|![](https://github.com/victor-zheng-codes/Personal-Blog/blob/main/content/posts/post-files/robotics/unexpected.png?raw=true)|
+|![](https://github.com/victor-zheng-codes/Personal-Blog/blob/main/content/posts/post-files/robotics/unexpected.JPG?raw=true)|
 | :--: |
 | <b>Unexpected result of finding red values<b>|
 
@@ -87,16 +87,37 @@ After realizing that the results were unexpected, the team investigated the situ
 
 The new image was all dark, and seemed to only have 1 channel. Therefore, the team went back to the drawing board. From there, the team brainstormed and determined that they should attempt to read the image array data into another file. This took many attempts, as seen in the photos below…
 
-|![](https://github.com/victor-zheng-codes/Personal-Blog/blob/main/content/posts/post-files/robotics/mixed-up-channels.png?raw=true)|
+|![](https://github.com/victor-zheng-codes/Personal-Blog/blob/main/content/posts/post-files/robotics/mixed-up-channels.JPG?raw=true)|
 | :--: |
 | <b>Reading the image into a new file<b>|
 
 After correcting the colour, the team found that the image was upside down. Therefore, the team created an algorithm to flip the image data across the centre line. The result was a righted image as shown below. 
 
-|![](https://github.com/victor-zheng-codes/Personal-Blog/blob/main/content/posts/post-files/robotics/recorrected.png?raw=true)|
+|![](https://github.com/victor-zheng-codes/Personal-Blog/blob/main/content/posts/post-files/robotics/recorrected.JPG?raw=true)|
 | :--: |
 | <b>Flipping the image<b>|
 
+As seen in the above photo, the team proceeded to display the image via the display function. The team did this by reading the file that was previously written by the Pillow Library.  
+
+|![](https://github.com/victor-zheng-codes/Personal-Blog/blob/main/content/posts/post-files/robotics/proceeding_to_test_images.png?raw=true)|
+| :--: |
+| <b>Here we began to display the image using the display function<b>|
+
+
+Following this, the team proceeded to begin creating and testing a mask. Through writing a mask algorithm that detected the highest and lowest thresholds for the red mask, the team was able to slightly detect the red image. 
+
+From there, the team played around with both the output and the algorithm to see which methods would find the red the best. 
+
+The end result was an algorithm that found the red pixels and displayed them onto a mask. This proved that it was possible to detect colours in the RCJ Rescue Simulation Demonstration Platform. 
+
+UPDATE: As of March 28, 2021, there seems to be no heated victims in future competitions. However, this algorithm may be used in detecting the new hazard signs. The new rules can be found here.
+
+Here is a close up of the red detection and the resulting mask.
+
+
+|![](https://github.com/victor-zheng-codes/Personal-Blog/blob/main/content/posts/post-files/robotics/original_to_new.png?raw=true)|
+| :--: |
+| <b>Original to new at the end<b>|
 
 ----
 ### Future Image Processing in the RoboCup Junior Maze Simulation World (Mar 20, 2021)

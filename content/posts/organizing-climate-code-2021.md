@@ -46,6 +46,9 @@ As the Executive Director of the event, I led my team of 12 high-school students
 
 During this summer, I was almost solely focused on the event in July 2021, as I had graduated a year early from high-school. I put in countless hours and thought through some really amazing events and planned it out as best I could. 
 
+The result was the biggest high-school hackathon in BC history, garnering 253 participants, over 16 workshops, dozens of sponsors, and setting a high standard for future events. 
+
+At the time, the website was located at: https://mini.xdhacks.com/vancouver/climate-code.
 
 |![](https://github.com/victor-zheng-codes/Personal-Blog/blob/main/content/posts/post-files/climate-code-201/Climate-Code-2021.jpg?raw=true)|
 | :--: |
@@ -75,6 +78,17 @@ I asked myself *why* are we doing what we are doing often. *What* will this volu
 As a high-school organization, it's very hard to convince other organizations about your mission and your vision. We needed both financial and in-kind donations to make our event happen, and it wasn't as easy as we expected. 
 
 There are two parts of getting a financial contribution. Number 1, you need to see if they are accepting applications for financial grants. Number 2, you need to figure out if you have what it takes to develop a really great 
+
+**Speakers**
+
+Speakers are also very difficult to organize. However, I think it's a bit easier than others because you have a larger pool of talent to choose from. It's ideal that we can find someone who aligns with our mission and are crafted for the best possible experience. We had a lot of meetings discussing these logistics and how we could provide the best experience for our attendees without making it too overwhelming. 
+
+One of my accomplishments was getting our Keynote Speaker, MLA Brenda Bailey, who at that time was BC's Parliamentary Secretary for Technology and Innovation to come to our Zoom meeting and give a really great presentation. 
+
+**Conclusion**
+
+Looking back, this was one of my fondest experiences in my life and is something that I'll look back upon really fondly. I think our entire team: Alex, Callum, Christina, Tiffany, Sarah, Karen, John, Brian, Sam, Aqeel, and Simrit will remember this experience for the rest of their lives. And I know that we made an impact that although is immeasurable, will be remembered. 
+
 
 **Event Videos**
 

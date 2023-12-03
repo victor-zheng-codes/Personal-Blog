@@ -1,0 +1,630 @@
+@media screen and (max-width: 900px) {
+    .nav-list a {
+        font-size: 10px !important;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    .nav-list a {
+        font-size: var(--fs-s) !important;
+    } 
+}
+
+@media screen and (max-width: 450px) {
+    .hero__left__subheader {
+        letter-spacing: 12px;
+    }
+}
+
+@media screen and (max-width: 372px) {
+    .hero__left__subheader {
+        letter-spacing: 8px;
+    }
+}
+
+.workshops {
+    overflow-x: hidden;
+    width: 100vw;
+    background-color: var(--light-purple);
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 50px;
+    padding-bottom: 50px;
+}
+
+.workshops__header {
+    text-align: center;
+    color: white;
+    margin-top: 50px;
+    font-size: 50px;
+    font-weight: 800;
+}
+
+.workshops__list {
+    display: flex;
+    flex-direction: column;
+    margin: 50px;
+    align-items: center;
+}
+
+.workshops__list__card {
+    width: 1300px;
+    display: flex;
+    flex-direction: row;
+    margin: 50px 0px;
+}
+
+.workshops__list__card__profile-img {
+    width: 434px;
+    height: 300px;
+}
+
+.workshops__list__card__right {
+    margin-left: 50px;
+}
+
+.workshops__list__card__title {
+    font-size: 35px;
+    margin-bottom: 20px;
+    color: white;
+
+}
+
+.workshops__list__card__section {
+    margin-top: 10px;
+}
+
+.workshops__list__card__section__title {
+    color: white;
+    margin-bottom: 10px;
+}
+
+.workshops__list__card__section__bio {
+    margin: 10px 0px;
+}
+
+.workshops__list__card__section__description {
+    font-size: 18px;
+    line-height: 30px;
+}
+
+@media screen and (max-width: 1400px) {
+    .workshops__list__card {
+        width: 1200px;
+    }
+
+    .workshops__list__card__title {
+        font-size: 30px;
+    }
+}
+
+@media screen and (max-width: 1250px) {
+    .workshops__list__card {
+        width: 1000px;
+    }
+
+    .workshops__list__card__section__title {
+        font-size: 20px;
+    }
+}
+
+@media screen and (max-width: 1050px) {
+    .workshops__list__card {
+        width: 900px;
+    }
+
+    .workshops__list__card__profile-img {
+        width: 347px;
+        height: 240px;
+    }
+
+    .workshops__list__card__section__title {
+        font-size: 18px;
+    }
+    
+    .workshops__list__card__section__description {
+        font-size: 16px;
+        line-height: 25px;
+    }
+}
+
+@media screen and (max-width: 950px) {
+    .workshops__list__card {
+        flex-direction: column;
+        align-items: center;
+        width: 500px;
+    }
+
+    .workshops__list__card__right {
+        text-align: center;
+        margin-left: 0px;
+    }
+
+    .workshops__list__card__profile-img {
+        width: 434px;
+        height: 300px;
+        margin-bottom: 50px;
+    }
+
+    .workshops__list__card__section__title {
+        font-size: 24px;
+    }
+    
+    .workshops__list__card__section__description {
+        font-size: 16px;
+        line-height: 25px;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    .workshops__header {
+        font-size: 40px;
+    }
+
+    .workshops__list__card {
+        width: 400px;
+    }
+
+    .workshops__list__card__section__title {
+        font-size: 20px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .workshops__header {
+        font-size: 35px;
+    }
+
+    .workshops__list__card {
+        width: 400px;
+    }
+
+    .workshops__list__card__title {
+        font-size: 30px;
+    }
+
+    .workshops__list__card__section__title {
+        font-size: 20px;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .workshops__header {
+        margin-bottom: 0px;
+    }
+
+    .workshops__list {
+        margin-top: 30px;
+    }
+
+    .workshops__list__card {
+        width: 300px;
+    }
+
+    .workshops__list__card__profile-img {
+        width: 300px;
+        height: 210px;
+    }
+
+    .workshops__list__card__title {
+        font-size: 23px;
+    }
+
+    .workshops__list__card__section__title {
+        margin: 20px 0px 15px 0px;
+        font-size: 20px;
+    }
+}
+
+@media screen and (max-width: 350px) {
+    .workshops__header {
+        font-size: 25px;
+        margin-bottom: 0px;
+    }
+
+    .workshops__list {
+        margin-top: 20px;
+    }
+
+    .workshops__list__card {
+        width: 250px;
+    }
+
+    .workshops__list__card__profile-img {
+        width: 240px;
+        height: 168px;
+    }
+
+    .workshops__list__card__title {
+        font-size: 20px;
+    }
+
+    .workshops__list__card__section__title {
+        margin: 20px 0px 15px 0px;
+        font-size: 18px;
+    } 
+
+    .workshops__list__card__section__description {
+        font-size: 14px;
+        line-height: 20px;
+    } 
+}
+
+.sec-header {
+    text-align: center;
+    margin-top: 200px;
+    margin-bottom: 50px;
+    font-size: 50px;
+}
+
+@media screen and (max-width: 800px) {
+    .sec-header {
+        margin-top: 100px;
+        font-size: 40px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .sec-header {
+        margin-top: 80px;
+        padding: 0px 20px;
+        font-size: 35px;
+        margin-bottom: 20px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .sec-header {
+        margin-bottom: 0px;
+    }
+}
+
+
+@media screen and (max-width: 350px) {
+    .sec-header {
+       font-size: 25px; 
+    }
+}
+
+/* Team Styles */
+
+.team-grid{
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 1rem !important;
+    justify-content: space-evenly;
+    align-items: center;
+
+    overflow-x: hidden;
+    width: 100vw;
+}
+
+.pfp{
+    width: 250px;
+    height: 250px;
+    border-radius: 100%;
+    border: solid 10px var(--light-purple);
+}
+
+.person{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 5%;
+    text-align: center;
+}
+
+.name {
+    margin-top: 20px;
+}
+
+.role{
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+
+.learn-more{
+    width: 70%;
+    transition: ease-in-out 200ms;
+    letter-spacing: 3px;
+    font-size: 14px !important;
+    margin-top: 20px;
+    padding: 10px 20px 10px 20px !important;
+}
+
+@media screen and (max-width: 700px){
+    .team-grid {
+        flex-direction: column;
+    }
+
+    .name{
+        font-size: 25px;
+    }
+    .person {
+        margin: 40px 0px 50px 0px;
+    }
+
+    .pfp {
+        width: 200px;
+        height: 200px;
+    }
+}
+
+
+@media screen and (max-width: 600px){
+    .name{
+        font-size: 25px;
+    }
+}
+
+@media screen and (max-width: 500px){
+    .pfp {
+        width: 180px;
+        height: 180px;
+        border: solid 5px var(--light-purple);
+    }
+}
+
+@media screen and (max-width: 300px) {
+    .person {
+        margin: 20px 0px 30px 0px;
+    }
+
+}
+
+/* Gallery */
+.purple-bkg {
+    background-color: var(--light-purple);
+    padding-top: 125px;
+    padding-bottom: 125px;
+    margin-top: 200px;
+    margin-bottom: 50px;
+}
+
+@media screen and (max-width: 600px) {
+    .purple-bkg {
+        padding-top: 75px;
+        padding-bottom: 75px; 
+    }
+}
+
+.purple-bkg-header {
+    color: white;
+    margin-top: 0px;
+    margin-bottom: 50px;
+}
+
+.gallery {
+
+    grid-column: full-start / full-end;
+    display: grid;
+    
+    /*grid-template-columns: repeat(8, 1fr);
+      grid-template-rows: repeat(7, 5vw);*/
+    grid-template: repeat(7, 5vw)/repeat(8, 1fr);
+    grid-gap: 1.5rem;
+    padding: 1.5rem;
+}
+
+@media screen and (max-width: 600px) {
+    .gallery {
+        grid-gap: .5rem;
+        padding: .5rem; 
+    }
+}
+
+.gallery__item--1 {
+    grid-row: 1 / span 2;
+    grid-column: 1 / span 2;
+}
+
+.gallery__item--2 {
+    grid-row: 1 / span 3;
+    grid-column: 3 / span 3;
+}
+
+.gallery__item--3 {
+    grid-row: 1 / span 2;
+    grid-column: 6 / 7;
+}
+
+.gallery__item--4 {
+    grid-row: 1 / span 2;
+    grid-column: 7 / -1;
+}
+
+.gallery__item--5 {
+    grid-row: 3 / span 3;
+    grid-column: 1 / span 2;
+}
+
+.gallery__item--6 {
+    grid-row: 4 / span 2;
+    grid-column: 3 / span 2;
+}
+
+.gallery__item--7 {
+    grid-row: 4 / 5;
+    grid-column: 5 / 6;
+}
+
+.gallery__item--8 {
+    grid-row: 3 / span 2;
+    grid-column: 6 / span 2;
+}
+
+.gallery__item--9 {
+    grid-row: 3 / span 3;
+    grid-column: 8 / -1;
+}
+
+.gallery__item--10 {
+    grid-row: 6 / span 2;
+    grid-column: 1 / 2;
+}
+
+.gallery__item--11 {
+    grid-row: 6 / span 2;
+    grid-column: 2 / span 2;
+}
+
+.gallery__item--12 {
+    grid-row: 6 / span 2;
+    grid-column: 4 / 5;
+}
+
+.gallery__item--13 {
+    grid-row: 5 / span 3;
+    grid-column: 5 / span 3;
+}
+
+.gallery__item--14 {
+    grid-row: 6 / span 2;
+    grid-column: 8 / -1;
+}
+
+.gallery__img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+}
+
+
+
+.sections__txt__team {
+    color: gray;
+    font-size: 20px;
+}
+
+.txt-no-btn {
+    height: 80%;
+}
+
+.teams_desc {
+    font-size: 20px;
+    line-height: 35px;
+}
+
+@media screen and (max-width: 1650px) {
+    .txt-no-btn {
+        height: 70%;
+    }
+
+    .teams_desc {
+        font-size: 18px;
+        line-height: 30px;
+    }
+}
+
+@media screen and (max-width: 1300px) {
+    .sections__txt__team {
+        font-size: 18px;
+    }
+
+    .teams_desc {
+        font-size: 16px;
+        line-height: 25px;
+    }
+}
+
+@media screen and (max-width: 1250px) {
+    .winning-img {
+        width: 500px;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .sections__txt__team {
+        font-size: 14px;
+    }
+
+    .teams_desc {
+        font-size: 14px;
+        line-height: 20px;
+    }
+}
+
+@media screen and (max-width: 1250px) {
+    .winning-img {
+        width: 400px;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .sections__txt__team {
+        font-size: 12px;
+    }
+
+    .teams_desc {
+        font-size: 12px;
+        line-height: 20px;
+    }
+}
+
+@media screen and (max-width: 980px) {
+    .winning-img {
+        width: 300px;
+    }
+}
+
+
+@media screen and (max-width: 800px) {
+    .sections__txt__team {
+        font-size: 18px;
+    }
+
+    .teams_desc {
+        font-size: 16px;
+        line-height: 35px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .sections__txt__btn {
+        margin-top: 25px;
+        width: 80%;
+    }
+
+    .teams_desc {
+        margin: 10px;
+        width: 350px;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    .sections__txt__btn {
+        width: 200px;
+    }
+    
+    .teams_desc {
+        margin: 10px;
+        width: 300px;
+        line-height: 30px;
+    }
+}
+
+@media screen and (max-width: 300px) {
+    .sections__txt__btn {
+        width: 150px;
+        font-size: 20px !important;
+    }
+    
+    .teams_desc {
+        margin: 10px;
+        width: 250px;
+        line-height: 25px;
+    }
+}
+
+.sponsors {
+    margin-bottom: 10rem !important;
+}
+
+@media screen and (max-width: 500px) {
+    .sponsors {
+        margin-bottom: 5rem !important;
+    }
+}

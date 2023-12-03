@@ -6,7 +6,7 @@ author: "Victor Zheng"
 showToc: true
 tags: ["robotics"]
 categories: [""]
-TocOpen: false
+TocOpen: true
 hidemeta: false
 comments: false
 description: "From 2018 to 2021, I was part of a robotics team which I had the chance of writing blogs about"
@@ -66,10 +66,10 @@ I was part of teams from 2018 to 2021, with achievements including:
 
 
 
-### **The following are blogs that I wrote while on the team**
+## The following are blogs that I wrote while on the team
 
 ----
-#### Making a reliable Computer Vision Letter Detection Algorithm (Oct 7, 2023)
+### Making a reliable Computer Vision Letter Detection Algorithm (Oct 7, 2023)
 
 In the [RoboCup Rescue Simulation Demo Competition](https://rescue.rcj.cloud/), a reliable visual victim finding algorithm is crucial for success. Each successful victim identification can be worth 40 points, which can add up to be the difference between first and second. Our victim identification algorithm was created through OpenCV, by designing an algorithm capable of differentiating between H, S, and U. We looked at the key points in each letter, and from there, looked to differentiate each key point from each letter from one another.
 
@@ -92,7 +92,7 @@ By being able to test our program through the display function, we were able to 
 
 ----
 
-#### Testing Image Processing Algorithms in a Webots World (Sep 23, 2020)
+### Testing Image Processing Algorithms in a Webots World (Sep 23, 2020)
 
 In the 2020 [RoboCup Junior Simulation Demonstration Competition](https://rescue.rcj.cloud/), one of the objectives is to differentiate between letters using Computer Vision. A correct identification gains bonus points, and every point can matter in the event. In the past, our team had used OpenCV’s built-in functions to draw lines, shapes, and text onto images. However, we found that this was difficult to do on the Webot’s simulation platform. This posed a challenge for testing our vision systems.
 
@@ -109,7 +109,7 @@ Our team managed to attach the camera image to the display, and then write onto 
 
 ----
 
-#### Data Visualization in Webots world (Sep 16, 2020)
+### Data Visualization in Webots world (Sep 16, 2020)
 
 Creating a robust and reliable robot is an important part of the RoboCup Rescue Simulation Demonstration Competition. When testing in Webots, our team used Data Visualization to determine how/when errors occurred. Each time we tested our robot, we wrote data from sensors such as colour, gyro, and gps into a file. Then, we used the data to find the key points and see how/what caused the errors. These errors could then be examined for strategy errors, coding errors, or noise errors. We could then create a more reliable and robust robot, since there were less challenges that could affect our robot.
 
@@ -120,7 +120,7 @@ Creating a robust and reliable robot is an important part of the RoboCup Rescue 
 
 ----
 
-##### RCJ Rescue Simulation Noise Researching (Sep 14, 2020)
+### RCJ Rescue Simulation Noise Researching (Sep 14, 2020)
 
 During the [RoboCup Junior Rescue Simulation Demonstration Competition](https://rescue.rcj.cloud/events/2020/simulation/index.html), our team performed many tests, one of which was to find noise. David from our team, developed many worlds for us to test. We then performed Data Visualization on the data, to find unique aspects or occurrences. During our research, we found that the noise in the Webots Simulation Platform is very limited. We sometimes however, got errors such as “World Timestep Errors”, which we could not find reasons for. However, we found that the probability of this error of occurring spiked when the robot was moving in repetitive motions or volatilely.
 

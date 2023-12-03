@@ -105,3 +105,8 @@ Here is the full Opening Ceremony for the event
 {{< youtube 69UUmr-7PJg >}}
 
 
+**Event Website**
+
+I have linked the website here, so that if the site is down, it'll be visible still: 
+
+https://blog.victorzheng.ca/posts/post-files/climate-code-2021/climatecode

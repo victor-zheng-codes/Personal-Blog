@@ -22,7 +22,8 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "<image url>" # image path/url
+    image: "https://github.com/victor-zheng-codes/Personal-Blog/blob/main/content/posts/post-files/climate-code-201/closing-ceremony.jpg?raw=true
+" # image path/url
     alt: "<alt text>" # alt text
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
@@ -44,6 +45,12 @@ The event was a very fun event, filled with tons of speakers, sponsors, and work
 As the Executive Director of the event, I led my team of 12 high-school students, and 20 ambassadors through the entire process of running the event. All of this organization happened between April 2021 and August 2021, perhaps some of the most interesting periods of my life. 
 
 During this summer, I was almost solely focused on the event in July 2021, as I had graduated a year early from high-school. I put in countless hours and thought through some really amazing events and planned it out as best I could. 
+
+
+|![](https://github.com/victor-zheng-codes/Personal-Blog/blob/main/content/posts/post-files/climate-code-201/Climate-Code-2021.jpg?raw=true)|
+| :--: |
+| <b> The event banner. </b>|
+
 
 Here are some of the topics that I have highlighted in a reflection from over 2 years ago. 
 

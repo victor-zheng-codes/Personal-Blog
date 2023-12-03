@@ -1,8 +1,10 @@
 # Personal Blog Website
 
-My Personal Blogging Website for 2023
+My Personal Blogging Website. 
 
-Started December 2022, and will be updated with my blogs!
+Started December 2022, and will be updated with my blogs. 
+
+Some blogs are taken from previous version that I had been working on earlier.
 
 <hr>
 

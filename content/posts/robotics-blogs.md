@@ -5,7 +5,7 @@ draft: false
 author: "Victor Zheng"
 showToc: true
 tags: ["robotics"]
-categories: [""]
+categories: ["robotics"]
 TocOpen: true
 hidemeta: false
 comments: false

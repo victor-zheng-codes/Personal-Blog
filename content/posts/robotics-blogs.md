@@ -106,7 +106,15 @@ As seen in the above photo, the team proceeded to display the image via the disp
 
 Following this, the team proceeded to begin creating and testing a mask. Through writing a mask algorithm that detected the highest and lowest thresholds for the red mask, the team was able to slightly detect the red image. 
 
+|![](https://github.com/victor-zheng-codes/Personal-Blog/blob/main/content/posts/post-files/robotics/red-detection-in-the-RoboCUp.png?raw=true)|
+| :--: |
+| <b>Red detection with a mask<b>|
+
 From there, the team played around with both the output and the algorithm to see which methods would find the red the best. 
+
+|![](https://github.com/victor-zheng-codes/Personal-Blog/blob/main/content/posts/post-files/robotics/masked_result.png?raw=true)|
+| :--: |
+| <b>Masked result after all filtering<b>|
 
 The end result was an algorithm that found the red pixels and displayed them onto a mask. This proved that it was possible to detect colours in the RCJ Rescue Simulation Demonstration Platform. 
 

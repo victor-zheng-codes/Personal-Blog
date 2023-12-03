@@ -501,3 +501,13 @@ Our team tried avoiding these errors by ensuring complete movements, and testing
 | <b>Example of simulated image detection</b>|
 
 ----
+
+## The following are videos that I made while on the team
+
+### Communicating with other robots during the RCJ competition
+
+{{< youtube hjoweaMZ8rc >}}
+
+### Discussing our strategies for ball handling at the RCJ competition
+
+{{< youtube IGBbXjDli18 >}}

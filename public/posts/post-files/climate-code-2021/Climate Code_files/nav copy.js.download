@@ -1,0 +1,65 @@
+
+function scrollToId(id) {
+    document.getElementById(id).scrollIntoView({behavior: 'smooth'});
+}
+
+//Toggle menu when screen is small
+var navToggled = false;
+
+//Adds event listeners to menu icon
+// document.getElementById("menu").addEventListener("click", toggle);
+// document.getElementById("menu").addEventListener("keydown", e => keyToggle(e));
+
+//Opens nav dropdown
+function toggle() {
+    if (navToggled && window.innerWidth <= 800) {
+        document.getElementById("toggle-nav").classList.remove("toggled");
+        navToggled = false;
+        const links = document.querySelectorAll(".main-nav a");
+        setTimeout(() => {
+            for (let i = 0; i < links.length; i++) {
+                links[i].style.display = "none";
+            }
+        }, 250)
+    }
+    else if (window.innerWidth <= 800) {
+        document.getElementById("toggle-nav").classList.add("toggled");
+        navToggled = true;
+        const links = document.querySelectorAll(".main-nav a");
+        for (let i = 0; i < links.length; i++) {
+            links[i].style.display = "flex";
+        }
+    }
+}
+
+//Toggles menu with enter key
+function keyToggle(e) {
+    if (e.keyCode == 13) toggle();
+}
+
+//Resets toggle when screen is large
+function resize() {
+    if (window.innerWidth > 600) {
+        document.getElementById("toggle-nav").classList.remove("toggled");
+        document.getElementById("toggle-nav").style.display = "block";
+        const links = document.querySelectorAll(".main-nav a");
+        for (let i = 0; i < links.length; i++) {
+            links[i].style.display = "flex";
+        }
+        navToggled = false;
+    } else {
+        document.getElementById("toggle-nav").style.display = "none";
+        setTimeout(() => document.getElementById("toggle-nav").style.display = "block", 1);
+        const links = document.querySelectorAll(".main-nav a");
+        for (let i = 0; i < links.length; i++) {
+            links[i].style.display = "flex";
+        }
+    }
+}
+
+if (window.innerWidth < 600) {
+    const links = document.querySelectorAll(".main-nav a");
+    for (let i = 0; i < links.length; i++) {
+        links[i].style.display = "none";
+    }
+}
